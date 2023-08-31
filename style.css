@@ -93,7 +93,7 @@ section img{
 }
 
 #home-hero{
-    background-image: url(./backg.jpg);
+    background-image: url(./assets/backg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 180px;
